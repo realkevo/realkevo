@@ -73,11 +73,10 @@
 
 ---
 
-### 🔖 Featured Projects _(Add links if you want)_
+### 🔖 Featured Projects _
 
 - 📱 **Smart Scanner App** – Image similarity detection using SSIM/ORB in Flutter
 - 🛰️ **SMAP** – Smart management app
 - 🔐 **Secure Notes App** – Local & cloud encryption using Isar & Firebase
 - 📦 **Offline Retail POS** – Flutter + Hive + Firebase Sync architecture
 
-> _Want help writing descriptions for your actual repos? Just tell me which ones to feature!_
