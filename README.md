@@ -1,82 +1,69 @@
-<h1 align="center">👋 Hi, I'm Kelvin Thuranira</h1>
-<h3 align="center">💡 Android & Flutter Developer | 🛠️ Open Source Enthusiast | 🌍 Tech Explorer</h3>
-
+<!-- Matrix Digital Rain Banner -->
 <p align="center">
-  <a href="https://github.com/realkevo">
-    <img src="https://komarev.com/ghpvc/?username=realkevo&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="realkevo" />
-  </a>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="200px" alt="Matrix Rain">
+</p>
+
+# 👨‍💻 Kelvin Thuranira — Android & Flutter Developer | Elite Code Craftsman 🛠️💻
+
+> *"Building apps for the future, breaking limits of the present."*  
+
+![Profile Views](https://komarev.com/ghpvc/?username=realkevo&color=blue&style=flat-square)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin_Thuranira-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kelvin-thuranira-485844231)  
+[![Reddit](https://img.shields.io/badge/Reddit-@Thuranira__alex-orange?style=flat&logo=reddit)](https://www.reddit.com/u/Thuranira_alex)  
+[![Gmail](https://img.shields.io/badge/Email-acodedevelopers100@gmail.com-red?style=flat&logo=gmail)](mailto:acodedevelopers100@gmail.com)  
+
+---
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Android+%2B+Flutter+Developer;Elite+Hacker+%26+Security+Enthusiast;AI+%26+Computer+Vision+Innovator;Building+Apps+That+Defy+Limits" />
 </p>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="border-radius:20px;" />
+## 🛠 Tech Arsenal
 
-### 🚀 About Me
+**💙 Mobile Development**
+- Flutter (Dart) — Cross-platform wizardry
+- Native Android (Java/Kotlin) — Deep system-level integration
 
-- 💻 I'm currently building **intelligent apps** using **Flutter**, **Firebase**, and **Android**
-- 🔍 Exploring **image processing**, **offline-first architectures**, and **device-level automation**
-- 🤝 I believe in **collaboration**, **clean code**, and **continuous learning**
-- 🧠 Thinking different: I enjoy tackling **rare, untapped, real-world ideas**
-- ☕ Fun Fact: I fix bugs better with coffee and lo-fi beats in the background
+**⚡ Backend / Cloud**
+- Firebase Firestore, Storage, Auth
+- REST APIs & WebSockets
 
----
-
-### 🧰 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+**🔍 Hacking & Security**
+- Penetration Testing (Linux / Parrot OS / Kali)
+- Reverse Engineering & Secure App Design
+- OpenCV & AI-powered image recognition
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realkevo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=realkevo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realkevo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## 📌 Current Focus
+- Building **ShopEye** — multi-role e-commerce app with sales reports  
+- Implementing **AI-driven image similarity detection**  
+- Designing **exclusive, niche apps** for rarely explored ideas  
+- Mastering cyberpunk-style automation & secure coding
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:acodedevelopers100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kelvin-thuranira-485844231">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.reddit.com/u/Thuranira_alex">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-</p>
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| **ShopEye** | Multi-role e-commerce app with shift management & sales reports | Flutter, Firebase |
+| **ImageSim** | Finds similar images from gallery using AI & OpenCV | Flutter, Python |
+| **SecureAppX** | Cybersecurity-first Android app | Flutter, Encryption APIs |
 
 ---
 
-### 🧠 Personal Motto
-<p align="center"><i>“Code with purpose, build with impact.”</i></p>
+## 🧠 GitHub Stats
+
+![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkevo&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realkevo&layout=compact&theme=tokyonight)  
 
 ---
 
-### 🔖 Featured Projects _
-
-- 📱 **Smart Scanner App** – Image similarity detection using SSIM/ORB in Flutter
-- 🛰️ **SMAP** – Smart management app
-- 🔐 **Secure Notes App** – Local & cloud encryption using Isar & Firebase
-- 📦 **Offline Retail POS** – Flutter + Hive + Firebase Sync architecture
-
+## 🕶 Hacker Vibes
+```bash
+sudo git init life
+git commit -m "Born to code"
+git push --force success
