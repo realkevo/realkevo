@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Kelvin Thuranira</h1>
+<h1 align="center">👋 Hi, I'm Kelvin</h1>
 <h3 align="center">💡 Android & Flutter Developer | 🛠️ Open Source Enthusiast | 🌍 Tech Explorer</h3>
 
 <p align="center">
