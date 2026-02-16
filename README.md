@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kelvin</h1>
-<h3 align="center">💡 Android Full Stack Developer | 🛠️ Open Source Enthusiast | 🌍 Tech Explorer</h3>
+<h3 align="center">💡 Flutter & Android Developer | Clean Architecture | Offline-First Systems</h3>
 
 <p align="center">
   <a href="https://github.com/realkevo">
@@ -13,11 +13,12 @@
 
 ### 🚀 About Me
 
-- 💻 I'm currently building **intelligent apps** using **Flutter**, **Firebase**, and **Android**
-- 🔍 Exploring **image processing**, **offline-first architectures**, and **device-level automation**
-- 🤝 I believe in **collaboration**, **clean code**, and **continuous learning**
-- 🧠 Thinking different: I enjoy tackling **rare, untapped, real-world ideas**
-- ☕ Fun Fact: I fix bugs better with coffee and lo-fi beats in the background
+- 💻 I build **production-ready Android applications** using **Flutter, Kotlin, and Firebase**
+- 🏗️ Strong focus on **clean architecture, modular structure, and scalable state management**
+- 🔄 Experienced in **offline-first design**, local persistence (Hive/Isar), and secure cloud sync
+- 🔌 Comfortable integrating **REST APIs, authentication flows, and background services**
+- 🧪 I prioritize **code quality, maintainability, and performance optimization**
+- ☕ Fun Fact: I debug best with coffee and lo-fi beats.
 
 ---
 
@@ -29,9 +30,11 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Isar-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -69,13 +72,13 @@
 ---
 
 ### 🧠 Personal Motto
-<p align="center"><i>“Code with purpose, build with impact.”</i></p>
+<p align="center"><i>“Code with purpose, ship with reliability.”</i></p>
 
 ---
 
-### 🔖 Featured Projects _
+### 🔖 Featured Projects
 
-- 📱 **Smart Scanner App** – Image similarity detection using SSIM/ORB in Flutter
-- 🛰️ **SMAP** – Smart management app
-- 🔐 **Secure Notes App** – Local & cloud encryption using Isar & Firebase
-- 📦 **Offline Retail POS** – Flutter + Hive + Firebase Sync architecture
+- 📱 **Smart Scanner App** – On-device image similarity detection using SSIM/ORB with optimized processing pipeline  
+- 🛰️ **SMAP** – Modular management application structured with scalable architecture  
+- 🔐 **Secure Notes App** – Encrypted local storage (Isar) with authenticated Firebase cloud sync  
+- 📦 **Offline Retail POS** – Offline-first Flutter POS using Hive with conflict-aware Firebase synchronization
