@@ -53,6 +53,10 @@ I build practical technology solutions that help businesses streamline operation
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realkevo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=realkevo&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 ---
 
 ### Connect with Me
