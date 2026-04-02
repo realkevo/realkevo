@@ -7,6 +7,10 @@
   </a>
 </p>
 
+<p align="center">
+  📄 <a href="https://github.com/realkevo/publicresume/blob/main/README.md" target="_blank"><b>View My Full Resume Here</b></a>
+</p>
+
 ---
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="border-radius:20px;" />
