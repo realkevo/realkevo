@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kelvin</h1>
 <p align="center">
   <a href="https://github.com/realkevo/publicresume/tree/main?tab=readme-ov-file">
-    📄 <strong>View Resume</strong>
+     <strong>View Full Resume</strong>
   </a>
 </p>
 
